@@ -9,7 +9,7 @@ Setup Instructions for front end:
   npm install
   
 3. Install webpack
-  npm install --save-dev webpack
+  npm install --global webpack
   
 4. Run webpack
   webpack
