@@ -12,7 +12,6 @@ Setup Instructions for front end:
   npm install --global webpack
   
 4. Run webpack
-  webpack
  
 5. open index.html to test
 
